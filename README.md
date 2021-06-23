@@ -1,6 +1,6 @@
-### Hi there, I'm Martin 👋
+### Hi there, I'm Martin :v:
 
-I'm a (Junior) Full Stack Web Developer living in Cologne and recently graduated from spiced Academy.
+I'm a (Junior) Full Stack Web Developer living in Cologne and recently graduated from spiced Academy :nerd_face:
 
 
 
@@ -12,7 +12,7 @@ const databases =
 [MySQL, postgresSQL];
 
 const frameworks_libraries =
-[React , Vue, Node/Express, Jest, Bootstrap,  jQuery, Handlebars, Redis, socket io];
+[React , Vue, Node/Express, Bootstrap,  jQuery, Handlebars, Redis, socket io];
 
 const testing =
 [Jest];
@@ -25,4 +25,4 @@ const languages =
 ```
 
 
-You can find me on ![linkedIn](https://user-images.githubusercontent.com/5154880/123057093-dd719480-d407-11eb-80ed-1021d45d8d4c.png)
+You can find me on ![linkedIn](https://user-images.githubusercontent.com/5154880/123057093-dd719480-d407-11eb-80ed-1021d45d8d4c.png) 
