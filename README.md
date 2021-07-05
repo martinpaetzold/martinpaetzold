@@ -12,7 +12,7 @@ const databases =
 [MySQL, postgresSQL];
 
 const frameworks_libraries =
-[React , Vue, Node/Express, Bootstrap,  jQuery, Handlebars, Redis, socket io];
+[React , Vue, Node/Express, Bootstrap, jQuery, Handlebars, Redis, socket io];
 
 const testing =
 [Jest];
