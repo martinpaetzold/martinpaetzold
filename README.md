@@ -1,9 +1,5 @@
 ### Hi there, I'm Martin :v:
 
-I'm a (Junior) Full Stack Web Developer living in Cologne and recently graduated from spiced Academy :nerd_face:
-
-
-
 ```js
 const programming_languages =
 [JavaScript, HTML, CSS, PHP];
