@@ -5,7 +5,7 @@ const programming_languages =
 [JS/TS, HTML, CSS, PHP];
 
 const databases =
-[MySQL, postgresSQL,mongoDB];
+[MySQL, postgresSQL, mongoDB];
 
 const frameworks_libraries =
 [Tailwind, Bootstrap, mjml, Angular, Vue, Node];
