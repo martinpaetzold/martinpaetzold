@@ -2,19 +2,25 @@
 
 ```js
 const programming_languages =
-[JavaScript, HTML, CSS, PHP];
+[JS/TS, HTML, CSS, PHP];
 
 const databases =
-[MySQL, postgresSQL];
+[MySQL, postgresSQL,mongoDB];
 
 const frameworks_libraries =
-[React, Vue, Node/Express, Bootstrap, jQuery, Handlebars, Redis, socket io];
+[Tailwind, Bootstrap, mjml, Angular, Vue, Node];
 
 const testing =
 [Jest];
 
 const cms_ecommerce =
-[Wordpress, ModX, Typo3, Prestashop];
+[strapi, Wordpress, ModX, Prestashop];
+
+const tools =
+[Jira/Confluence, MS Visual Studio Code, Office, Teams];
+
+const media_ui =
+[Adobe Photoshop, Indesign, Illustrator, XD, Figma];
 
 const languages =
 [German, English];
